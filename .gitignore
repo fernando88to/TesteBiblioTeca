@@ -1,0 +1,20 @@
+.idea
+# Ignore Gradle project-specific cache directory
+mylib/.gradle
+
+# Ignore Gradle build output directory
+mylib/lib/build
+
+
+appgrails/Thumbs.db
+appgrails/.DS_Store
+appgrails/.gradle
+appgrails/build/
+appgrails/out/
+appgrails/.idea
+appgrails/*.iml
+appgrails/*.ipr
+appgrails/*.iws
+appgrails/.project
+appgrails/.settings
+appgrails/.classpath
